@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAT.UI.MVC", "SAT.UI.MVC\SAT.UI.MVC.csproj", "{E7C0D8D1-F956-4829-892B-BF9AA7A57981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATLibrary", "SATLibrary\SATLibrary.csproj", "{76EB9BB6-17DE-489A-83E5-0092DFAD2D36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAT.DATA.EF", "SATLibrary\SAT.DATA.EF.csproj", "{76EB9BB6-17DE-489A-83E5-0092DFAD2D36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
